@@ -1,0 +1,14 @@
+C:\Users\selliott\source\repos\UserRegistrationFormBuilder\UserRegistrationFormBuilder\bin\Debug\net8.0\UserRegistrationFormBuilder.exe
+C:\Users\selliott\source\repos\UserRegistrationFormBuilder\UserRegistrationFormBuilder\bin\Debug\net8.0\UserRegistrationFormBuilder.deps.json
+C:\Users\selliott\source\repos\UserRegistrationFormBuilder\UserRegistrationFormBuilder\bin\Debug\net8.0\UserRegistrationFormBuilder.runtimeconfig.json
+C:\Users\selliott\source\repos\UserRegistrationFormBuilder\UserRegistrationFormBuilder\bin\Debug\net8.0\UserRegistrationFormBuilder.dll
+C:\Users\selliott\source\repos\UserRegistrationFormBuilder\UserRegistrationFormBuilder\bin\Debug\net8.0\UserRegistrationFormBuilder.pdb
+C:\Users\selliott\source\repos\UserRegistrationFormBuilder\UserRegistrationFormBuilder\obj\Debug\net8.0\UserRegistrationFormBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selliott\source\repos\UserRegistrationFormBuilder\UserRegistrationFormBuilder\obj\Debug\net8.0\UserRegistrationFormBuilder.AssemblyInfoInputs.cache
+C:\Users\selliott\source\repos\UserRegistrationFormBuilder\UserRegistrationFormBuilder\obj\Debug\net8.0\UserRegistrationFormBuilder.AssemblyInfo.cs
+C:\Users\selliott\source\repos\UserRegistrationFormBuilder\UserRegistrationFormBuilder\obj\Debug\net8.0\UserRegistrationFormBuilder.csproj.CoreCompileInputs.cache
+C:\Users\selliott\source\repos\UserRegistrationFormBuilder\UserRegistrationFormBuilder\obj\Debug\net8.0\UserRegistrationFormBuilder.dll
+C:\Users\selliott\source\repos\UserRegistrationFormBuilder\UserRegistrationFormBuilder\obj\Debug\net8.0\refint\UserRegistrationFormBuilder.dll
+C:\Users\selliott\source\repos\UserRegistrationFormBuilder\UserRegistrationFormBuilder\obj\Debug\net8.0\UserRegistrationFormBuilder.pdb
+C:\Users\selliott\source\repos\UserRegistrationFormBuilder\UserRegistrationFormBuilder\obj\Debug\net8.0\UserRegistrationFormBuilder.genruntimeconfig.cache
+C:\Users\selliott\source\repos\UserRegistrationFormBuilder\UserRegistrationFormBuilder\obj\Debug\net8.0\ref\UserRegistrationFormBuilder.dll
